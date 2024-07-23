@@ -12,4 +12,12 @@ This project includes a backend server using Node.js and Express, and a frontend
    ```bash
    cd backend/backend
    npm install
+   npm run start
+
+3. **goto frontend:**
+   ```bash
+   cd ..
+   cd frontend
+   npm install
    npm run dev
+
