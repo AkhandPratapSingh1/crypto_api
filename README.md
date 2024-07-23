@@ -19,5 +19,6 @@ This project includes a backend server using Node.js and Express, and a frontend
    cd ..
    cd frontend
    npm install
+3. **Please be sure that MongoDB is running on local machine and database name is price-tracker**
    npm run dev
 
