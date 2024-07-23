@@ -22,6 +22,6 @@ This project includes a backend server using Node.js and Express, and a frontend
    npm run dev
    
 3. **Please be sure that MongoDB is running on local machine and database name is price-tracker**
-   
+4. **Output:**   
 ![image](https://github.com/user-attachments/assets/3cd6fef5-0678-444c-b917-5e885075c6bc)
 
