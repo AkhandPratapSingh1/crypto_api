@@ -8,3 +8,8 @@ This project includes a backend server using Node.js and Express, and a frontend
    ```bash
    git clone https://github.com/AkhandPratapSingh1/crypto_api.git
    cd crypto_api
+2. **goto backend/backend:**
+   ```bash
+   cd backend/backend
+   npm install
+   npm run dev
